@@ -1,4 +1,4 @@
-# Day 1 - 30 Days of Coding
+# Day 1 - [30 Days of Coding]
 
 Welcome to **Day 1** of the 30 Days of Coding challenge! 🚀
 
