@@ -15,7 +15,7 @@ Welcome to **Day 1** of the 30 Days of Coding challenge! 🚀
 
 ### Task 2:
 - **Objective**: Accept and display user input.
-- **Description**: Take a string input from the user, assign it to a variable `str1`, and display the inputted string using the `print()` function.
+- **Description**: Accept a string input from the user by using `input()`, assign it to a variable `str1`, and display the inputted string using the `print()` function.
 #### Example: 
     A string "Hello World" inputted by the user is assigned to a variable.
     Expected output: Hello World
