@@ -1,6 +1,6 @@
 """
 Author: Dawn K Vinod
-Date:14-11-2024
+Date: 14-11-2024
 """
 
 #Assigning the string-"I Love Python" to a variable str1.
