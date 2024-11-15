@@ -15,6 +15,6 @@ print(f"quotient = {quotient}")
 modulus=num1%num2
 print(f"modulus = {modulus}")
 exponent = num1**num2
-exponent=(f"exponent = {exponent} ")
+print(f"exponent = {exponent} ")
 floordivision=num1//num2
 print(f"floor = {floordivision}")
