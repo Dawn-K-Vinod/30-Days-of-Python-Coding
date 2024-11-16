@@ -1,3 +1,7 @@
+"""
+Author: Dawn K Vinod
+Date: 16-11-2024
+"""
 name=input("Enter your name:")
 age=int(input("Enter your age:"))
 height=int(input("Enter your height(in cm):"))
