@@ -109,7 +109,9 @@ print(full_greeting)  # Output: Hello, Alice!
 
 # String Slicing
 message = "Welcome to Python"
-print(message[0:7])  # Output: Welcome
+print(message[0:7]) # using positive indexing
+print(message[:-10]) # using negative indexing
+# Same Output for both: Welcome
 
 # Using String Methods
 sentence = "python is awesome"
