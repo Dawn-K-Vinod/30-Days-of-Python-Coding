@@ -47,8 +47,6 @@ In this task, you will work with a sentence provided by the user. The sentence w
    - The first three words.  
    - The last two words.
    - The list of words in reverse order.(this should be like in the example output)
-   - The elements in this list in Ascending order.
-   - The elements in this list in descending order.
 
 ### Examples:
 #### Input:
