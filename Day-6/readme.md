@@ -26,6 +26,7 @@ In this task, you will work with lists to perform operations such as appending, 
     Enter a number: 20 
 #### Output:
     The first list of numbers is: [10.0, 25.0, 5.0, 15.0, 20.0]
+    The second list of numbers is: [30.0, 35.0, 40.0, 45.0] 
     The extended list of numbers is: [10.0, 25.0, 5.0, 15.0, 20.0, 30.0, 35.0, 40.0, 45.0]  
     Sum of all numbers: 225.0  
     Smallest number: 5.0  
