@@ -56,7 +56,5 @@ In this task, you will work with a sentence provided by the user. The sentence w
     First three words: ['Python', 'programming', 'is']
     Last two words: ['and', 'educational.']
     Reversed list of words: ['educational.', 'and', 'fun', 'is', 'programming', 'Python']
-    Reversed sentence: educational. and fun is programming Python
-
 
     
