@@ -10,7 +10,7 @@ Welcome to **Day 6** of the **30 Days of Coding** challenge! 🎉 Today, you’l
 In this task, you will work with lists to perform operations such as appending, extending, and calculating properties of the list (sum, smallest, and largest values).
 
 ### Instructions:  
-1. Create an empty list. Prompt the user to input 5 numbers one by one (using any loop) and store them in a list by using `.append()` method.  
+1. Create an empty list. Prompt the user to input 5 numbers one by one (using any loop) and store them in the empty list by using `.append()` method.  
 2. Display the first list containing these 5 numbers.  
 3. Assign a second list containing 4 or 5 numbers, into a variable. #(not by user input) 
 4. Extend the first list by adding the second list to it using the `.extend()` method.  
