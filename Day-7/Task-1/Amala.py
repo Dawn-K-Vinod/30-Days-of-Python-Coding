@@ -1,6 +1,6 @@
 '''
 Author:Amala Manoj
-Date:22-11-2024
+Date:23-11-2024
 '''
 num1=int(input("Enter a nuber:"))
 num2=int(input("Enter a nuber:"))
