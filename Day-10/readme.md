@@ -1,4 +1,4 @@
-# 🔰Day 10: Advanced String and List Operations  
+# 🔰Day 10: Advanced String and List Operations 
 
 Welcome to **Day 10** of the **30 Days of Coding** challenge! 🎉 Today, we will delve into advanced string manipulation and list operations, focusing on word and character counting as well as list rotation. These tasks will enhance your proficiency with strings and lists in Python.  
 
