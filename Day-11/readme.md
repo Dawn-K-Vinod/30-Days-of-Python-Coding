@@ -1,6 +1,6 @@
-# Day 11: Exploring Sets and Tuples  
+# Day 11: Exploring Sets 
 
-Welcome to **Day 11** of the **30 Days of Coding** challenge! 🎉 Today, we explore **sets** and **tuples**—two fundamental data structures in Python. Sets are collections of unique items, while tuples are immutable sequences.  
+Welcome to **Day 11** of the **30 Days of Coding** challenge! 🎉 Today, we explore **sets**, one of the fundamental data structures in Python. Sets are collections of unique items. 
 
 ---
 
